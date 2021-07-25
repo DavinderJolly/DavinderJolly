@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavinderJolly
 - 👀 I’m interested in Web Development and Game Development
-- 🌱 I’m currently learning React Native and Deno
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on Web apps and Games using Javascript/Python/C#
 - 📫 How to reach me SReaperz#8112 on Discord
 
