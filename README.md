@@ -5,6 +5,7 @@
 - 📫 How to reach me SReaperz#8112 on Discord
 
 Languages i use: http, css, scss, javascript, typescript, python, c#, java, golang, cpp, rust(learning)
+
 Editors i use: Vim, VS Code, Visual Studio 2019, Eclipse
 
 <!---
