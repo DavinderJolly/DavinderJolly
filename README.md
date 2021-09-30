@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Web apps and Games using Javascript/Python/C#
 - 📫 How to reach me SReaperz#8112 on Discord
 
-Languages i use: http, css, scss, javascript, typescript, python, c#, java, golang, cpp, rust(learning)
+**Languages i use:** http, css, scss, javascript, typescript, python, c#, java, golang, cpp, rust(learning)
 
-Editors i use: Vim, VS Code, Visual Studio 2019, Eclipse
+**Editors i use:** Vim, VS Code, Visual Studio 2019, Eclipse
 
 <!---
 DavinderJolly/DavinderJolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
