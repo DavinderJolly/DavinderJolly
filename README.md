@@ -6,7 +6,7 @@
 
 **Languages i use:** html, css, scss, javascript, typescript, python, c#, java, golang, cpp, rust(learning)
 
-**Editors i use:** Vim, Neovim, Doom Emacs, VS Code, Visual Studio 2019, Eclipse (all with vim keybinds)
+**Editors i use:** Neovim, VS Code
 
 <!---
 DavinderJolly/DavinderJolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
