@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Game Development
 - 🌱 I’m currently learning HTMX
 - 💞️ I’m looking to collaborate on Web apps and Games using Javascript/Python/C#
-- 📫 How to reach me SReaperz#8112 on Discord
+- 📫 How to reach me davinderrocks0786@gmail.com
 
 **Languages i use:** html, css, scss, javascript, typescript, python, c#, java, golang, cpp, rust(learning)
 
